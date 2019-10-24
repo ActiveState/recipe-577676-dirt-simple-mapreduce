@@ -1,6 +1,6 @@
 # Want to find out what you can do with this file? Head over to:
 # http://docs.activestate.com/platform/state/start.html
-project: https://platform.activestate.com/ActiveState-Recipes/recipe-577676-dirt-simple-mapreduce?commitID=d3c226f9-f96d-4417-a889-68017570d73d
+project: https://platform.activestate.com/ActiveState-Recipes/recipe-577676-dirt-simple-mapreduce?commitID=53f1db9f-32aa-4ac9-8032-898676e7e208
 scripts:
   - name: recipe
     description: Runs the recipe
